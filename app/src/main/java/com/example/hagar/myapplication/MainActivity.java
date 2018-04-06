@@ -21,12 +21,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+//comment
     }
 
     @OnClick(R.id.button)
     void buttonClick() {
-        textView.setText("Button Clicked");
+        textView.setText("Button Clicked new branch");
 
     }
 
